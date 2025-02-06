@@ -25,11 +25,11 @@ The **PathSearchAgent VCA** is a Java-based intelligent agent designed to naviga
 
 ## 📁 Project Structure
 
-PathSearchAgent-VCA/ ├── src/ # Source code directory │ 
-                       ├── Environment.java # Defines the environment and its visualization │ 
-                       ├── Main.java # Entry point and maze setup │ 
-                       ├── Node.java # Represents nodes in the search algorithms │ 
-                       ├── SearchAlgo.java # Implements AI search algorithms 
+PathSearchAgent-VCA/ ├── src/ # Source code directory  
+                             ├── Environment.java # Defines the environment and its visualization │ 
+                             ├── Main.java # Entry point and maze setup │ 
+                             ├── Node.java # Represents nodes in the search algorithms │ 
+                             ├── SearchAlgo.java # Implements AI search algorithms 
                      ├── doc/ # Javadoc-generated documentation  
                      ├── README.md 
 
@@ -47,7 +47,7 @@ If Java is not installed, download and install Java 21 (or later) from either Or
 
     Clone the repository:
 
-git clone https://github.com/your-username/PathSearchAgent-VCA.git  # Replace with your repository URL
+git clone https://github.com/mat-tp/PathSearchAgent-VCA.git 
 cd PathSearchAgent-VCA/src
 
 Compile the Project:
